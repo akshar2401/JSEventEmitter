@@ -1,0 +1,20 @@
+{
+  "name": "jseventemitter",
+  "version": "1.0.0",
+  "description": "Simple and Efficient Event Emitter class for use in Typescript/Js projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "invoke": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshar2401/JSEventEmitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshar2401/JSEventEmitter/issues"
+  },
+  "homepage": "https://github.com/akshar2401/JSEventEmitter#readme"
+}
